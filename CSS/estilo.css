@@ -1,0 +1,51 @@
+.container1{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: red;
+    color:aqua;
+    font-family: tahoma;
+    font-size: 25px;
+    border-radius: 5px;
+    padding:10px;
+
+}
+.container2{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.container3{
+    background-color: brown;
+    color: white;
+    font-family: tahoma;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.agr{
+    display: flex;
+    flex-direction: row;
+    flex-basis: 100px;
+}
+.Imagem{
+    border-radius: 30px;
+    flex-basis: 700px;
+
+}
+
+.size{
+    font-size: 100px;
+} 
+.e{
+    color:aliceblue;
+    font-size: 20px;
+}
+.o{
+    font-size: 40px;
+}
+.p{
+    font-size: 40px;
+    color: rgb(221, 184, 184);
+}
